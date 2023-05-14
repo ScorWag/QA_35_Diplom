@@ -1,0 +1,53 @@
+{
+    "name": "showNewsControlPanel",
+    "start": 1683981106855,
+    "stop": 1683981119540,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "c42b5990-e264-4b51-90c4-583b91e9c7d5",
+    "historyId": "da5c61551e66602314c3c7e9f22be3e",
+    "fullName": "ru.iteco.fmhandroid.ui.FMHAndroidTest.showNewsControlPanel",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.FMHAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "showNewsControlPanel"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.FMHAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(13154)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "name": "editClaimWithChangeTitleFieldOnly",
+    "start": 1683979139056,
+    "stop": 1683979169846,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "832ff4c9-cd7d-4064-98b4-cb76d5d3d429",
+    "historyId": "bc5c15b7924f79b98e0b1dc5c3fe9a97",
+    "fullName": "ru.iteco.fmhandroid.ui.FMHAndroidTest.editClaimWithChangeTitleFieldOnly",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.FMHAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "editClaimWithChangeTitleFieldOnly"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.FMHAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(13139)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

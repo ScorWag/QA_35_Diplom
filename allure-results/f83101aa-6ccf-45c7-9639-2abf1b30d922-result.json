@@ -1,0 +1,53 @@
+{
+    "name": "notAllowSaveEditNewsWithEmptyDescriptionField",
+    "start": 1683978227752,
+    "stop": 1683978276521,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "f83101aa-6ccf-45c7-9639-2abf1b30d922",
+    "historyId": "65c9709cb64380ced75dad4b0f94203e",
+    "fullName": "ru.iteco.fmhandroid.ui.FMHAndroidTest.notAllowSaveEditNewsWithEmptyDescriptionField",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.FMHAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "notAllowSaveEditNewsWithEmptyDescriptionField"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.FMHAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(13129)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

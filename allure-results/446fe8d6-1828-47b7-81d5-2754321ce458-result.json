@@ -1,0 +1,53 @@
+{
+    "name": "notAllowCreateNewsWithEmptyDateFieldOnly",
+    "start": 1683977902273,
+    "stop": 1683977916253,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "446fe8d6-1828-47b7-81d5-2754321ce458",
+    "historyId": "4648269220564c92f449aa10b0a67e76",
+    "fullName": "ru.iteco.fmhandroid.ui.FMHAndroidTest.notAllowCreateNewsWithEmptyDateFieldOnly",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.FMHAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "notAllowCreateNewsWithEmptyDateFieldOnly"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.FMHAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(13129)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

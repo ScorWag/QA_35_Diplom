@@ -1,0 +1,53 @@
+{
+    "name": "notAllowSaveEditClaimWithEmptyDescriptionField",
+    "start": 1683978194737,
+    "stop": 1683978227741,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "d3e25813-7944-4786-a99c-79df75d0c102",
+    "historyId": "4567159853513fbb7d09df9a8ca9769d",
+    "fullName": "ru.iteco.fmhandroid.ui.FMHAndroidTest.notAllowSaveEditClaimWithEmptyDescriptionField",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.FMHAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "notAllowSaveEditClaimWithEmptyDescriptionField"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.FMHAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(13129)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

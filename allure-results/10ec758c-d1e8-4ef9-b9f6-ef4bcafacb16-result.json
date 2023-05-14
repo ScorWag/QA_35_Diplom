@@ -1,0 +1,53 @@
+{
+    "name": "limitLengthClaimTitleInputWithFiftyOneSymbols",
+    "start": 1683980081156,
+    "stop": 1683980096194,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "10ec758c-d1e8-4ef9-b9f6-ef4bcafacb16",
+    "historyId": "de860aa126c3b41094f03e50c02b06f9",
+    "fullName": "ru.iteco.fmhandroid.ui.FMHAndroidTest.limitLengthClaimTitleInputWithFiftyOneSymbols",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.FMHAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "limitLengthClaimTitleInputWithFiftyOneSymbols"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.FMHAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(13154)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
