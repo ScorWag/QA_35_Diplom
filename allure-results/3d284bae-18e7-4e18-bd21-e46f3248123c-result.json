@@ -1,0 +1,61 @@
+{
+    "name": "notAllowCreateClaimWithEmptyDateInput",
+    "start": 1687970351201,
+    "stop": 1687970378121,
+    "stage": "finished",
+    "description": "Запрет создания заявки с пустым полем \"Дата\"",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "3d284bae-18e7-4e18-bd21-e46f3248123c",
+    "historyId": "9d40207af1c0472538da2804eabd15a7",
+    "fullName": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest.notAllowCreateClaimWithEmptyDateInput",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "notAllowCreateClaimWithEmptyDateInput"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(15260)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "owner",
+            "value": "Николаев Игорь Вячеславович"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

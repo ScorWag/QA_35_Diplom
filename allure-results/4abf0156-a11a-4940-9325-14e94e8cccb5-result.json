@@ -1,0 +1,61 @@
+{
+    "name": "cancelCreateNews",
+    "start": 1687972143048,
+    "stop": 1687972177993,
+    "stage": "finished",
+    "description": "Отмена создания новости после заполнения полей в \"Создание новости\" и нажатии \"Отмена\" ",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "4abf0156-a11a-4940-9325-14e94e8cccb5",
+    "historyId": "f55336b6810e9e81d65149083959e2a7",
+    "fullName": "ru.iteco.fmhandroid.ui.CreateEditNewsAndroidTest.cancelCreateNews",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditNewsAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "cancelCreateNews"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditNewsAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(15264)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "owner",
+            "value": "Николаев Игорь Вячеславович"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

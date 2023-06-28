@@ -1,0 +1,61 @@
+{
+    "name": "editNewsWithChangeCategoryFieldOnly",
+    "start": 1687972178008,
+    "stop": 1687972240210,
+    "stage": "finished",
+    "description": "Редактирование существующей новости с изменением только поля \"Категория\"",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "0adf400d-7398-41f4-8fac-f77ba042dc48",
+    "historyId": "8bbe1ea877545180d588bd444eb9532f",
+    "fullName": "ru.iteco.fmhandroid.ui.CreateEditNewsAndroidTest.editNewsWithChangeCategoryFieldOnly",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditNewsAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "editNewsWithChangeCategoryFieldOnly"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditNewsAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(15264)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "owner",
+            "value": "Николаев Игорь Вячеславович"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

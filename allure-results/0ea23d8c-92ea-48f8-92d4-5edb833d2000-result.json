@@ -1,0 +1,61 @@
+{
+    "name": "changeStatusClaimToExecute",
+    "start": 1687974655064,
+    "stop": 1687974706740,
+    "stage": "finished",
+    "description": "Изменение статуса существующей заявки на \"Выполнена\"",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "0ea23d8c-92ea-48f8-92d4-5edb833d2000",
+    "historyId": "1f3ff4ccd924366d99227cb324e268d1",
+    "fullName": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest.changeStatusClaimToExecute",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "changeStatusClaimToExecute"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(15294)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "owner",
+            "value": "Николаев Игорь Вячеславович"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

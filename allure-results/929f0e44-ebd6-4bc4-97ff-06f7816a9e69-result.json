@@ -1,0 +1,61 @@
+{
+    "name": "validationClaimTitleInputTrim",
+    "start": 1687967144738,
+    "stop": 1687967216483,
+    "stage": "finished",
+    "description": "Обрезание пробелов по краям строки в поле \"Тема\" в форме \"Создание заявки\"",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "929f0e44-ebd6-4bc4-97ff-06f7816a9e69",
+    "historyId": "86ab6d8673d97f95d4f3dbe9b333dd57",
+    "fullName": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest.validationClaimTitleInputTrim",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "validationClaimTitleInputTrim"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(15200)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "owner",
+            "value": "Николаев Игорь Вячеславович"
+        },
+        {
+            "name": "severity",
+            "value": "normal"
+        }
+    ]
+}

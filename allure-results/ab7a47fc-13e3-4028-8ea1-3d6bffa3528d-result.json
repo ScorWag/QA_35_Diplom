@@ -1,0 +1,61 @@
+{
+    "name": "notAllowCreateClaimWithEmptyTimeInput",
+    "start": 1687965772681,
+    "stop": 1687965799953,
+    "stage": "finished",
+    "description": "Запрет создания заявки с пустым полем \"Время\"",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "ab7a47fc-13e3-4028-8ea1-3d6bffa3528d",
+    "historyId": "1bba0787a1fea80a1d568c2a194b3b6f",
+    "fullName": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest.notAllowCreateClaimWithEmptyTimeInput",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "notAllowCreateClaimWithEmptyTimeInput"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(15119)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "owner",
+            "value": "Николаев Игорь Вячеславович"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

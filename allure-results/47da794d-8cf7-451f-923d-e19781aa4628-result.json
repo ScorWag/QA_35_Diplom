@@ -1,0 +1,61 @@
+{
+    "name": "openCreatedNewsInfoInNewsControlPanel",
+    "start": 1687972636870,
+    "stop": 1687972698289,
+    "stage": "finished",
+    "description": "Открытие информации о новости в разделе \"Новости\"",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "47da794d-8cf7-451f-923d-e19781aa4628",
+    "historyId": "6b8c81c727bc1007ec57c277721f8e43",
+    "fullName": "ru.iteco.fmhandroid.ui.NewsListFragmentAndroidTest.openCreatedNewsInfoInNewsControlPanel",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.NewsListFragmentAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "openCreatedNewsInfoInNewsControlPanel"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.NewsListFragmentAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(15274)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "owner",
+            "value": "Николаев Игорь Вячеславович"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

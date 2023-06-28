@@ -1,0 +1,61 @@
+{
+    "name": "openCreatedClaimScreen",
+    "start": 1687965133849,
+    "stop": 1687965184143,
+    "stage": "finished",
+    "description": "Открытие окна просмотра заявки в разделе \"Заявки\" по нажатию на соответствующий значок раскрытия в списке",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "8f4ef8b3-a9f0-4025-954c-98bd393cbad3",
+    "historyId": "bb400289bd0b0fbf5b6cd43535e117dd",
+    "fullName": "ru.iteco.fmhandroid.ui.ClaimListFragmentAndroidTest.openCreatedClaimScreen",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.ClaimListFragmentAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "openCreatedClaimScreen"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.ClaimListFragmentAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(15109)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "owner",
+            "value": "Николаев Игорь Вячеславович"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

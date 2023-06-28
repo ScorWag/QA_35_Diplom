@@ -1,0 +1,61 @@
+{
+    "name": "editClaimWithChangeTimeFieldOnly",
+    "start": 1687970511700,
+    "stop": 1687970566119,
+    "stage": "finished",
+    "description": "Редактирование существующей заявки с внесением изменений только в поле \"Время\"",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "78dab2a5-4329-4de8-aea3-3e63b2e9475f",
+    "historyId": "e1b5ae30332e7cda59735c315dd5c30d",
+    "fullName": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest.editClaimWithChangeTimeFieldOnly",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "editClaimWithChangeTimeFieldOnly"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(15260)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "owner",
+            "value": "Николаев Игорь Вячеславович"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

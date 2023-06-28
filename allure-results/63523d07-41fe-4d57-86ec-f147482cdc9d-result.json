@@ -1,0 +1,61 @@
+{
+    "name": "switchStatusNewsToActive",
+    "start": 1687972240226,
+    "stop": 1687972333911,
+    "stage": "finished",
+    "description": "Изменение статуса существующей новости на \"Активна\"",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "63523d07-41fe-4d57-86ec-f147482cdc9d",
+    "historyId": "ca20d27cf6ab28284c6acf10bb7632a6",
+    "fullName": "ru.iteco.fmhandroid.ui.CreateEditNewsAndroidTest.switchStatusNewsToActive",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditNewsAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "switchStatusNewsToActive"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditNewsAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(15264)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "owner",
+            "value": "Николаев Игорь Вячеславович"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

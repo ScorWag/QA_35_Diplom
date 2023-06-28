@@ -1,0 +1,61 @@
+{
+    "name": "editClaimWithChangeTitleFieldOnly",
+    "start": 1687970566143,
+    "stop": 1687970617559,
+    "stage": "finished",
+    "description": "Редактирование существующей заявки с внесением изменений только в поле \"Тема\"",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "b70f973b-902d-47cd-b50e-6c9f9a89d8c9",
+    "historyId": "df2c1367bdf311010d8b23625beb361c",
+    "fullName": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest.editClaimWithChangeTitleFieldOnly",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "editClaimWithChangeTitleFieldOnly"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(15260)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "owner",
+            "value": "Николаев Игорь Вячеславович"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

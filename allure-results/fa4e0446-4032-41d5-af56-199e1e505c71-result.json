@@ -1,0 +1,61 @@
+{
+    "name": "notAllowSaveEditNewsWithEmptyTitleField",
+    "start": 1687971616777,
+    "stop": 1687971682496,
+    "stage": "finished",
+    "description": "Запрет сохранения отредактированной новости с  пустым полем \"Заголовок\"",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "fa4e0446-4032-41d5-af56-199e1e505c71",
+    "historyId": "52a1586b87b5aeb618127e9e652e9c40",
+    "fullName": "ru.iteco.fmhandroid.ui.CreateEditNewsAndroidTest.notAllowSaveEditNewsWithEmptyTitleField",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditNewsAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "notAllowSaveEditNewsWithEmptyTitleField"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditNewsAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(15264)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "owner",
+            "value": "Николаев Игорь Вячеславович"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

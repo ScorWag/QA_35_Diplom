@@ -1,0 +1,61 @@
+{
+    "name": "goToThePrivacyPolicyPageFromAboutScreen",
+    "start": 1687964968596,
+    "stop": 1687964986089,
+    "stage": "finished",
+    "description": "Открытие политики конфиденциальности по ссылке из раздела \"О приложении\"",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "edf921ad-4f42-49b7-8d14-cc50134a146e",
+    "historyId": "902129e1678f419d3b5601202502344c",
+    "fullName": "ru.iteco.fmhandroid.ui.AboutFragmentAndroidTest.goToThePrivacyPolicyPageFromAboutScreen",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.AboutFragmentAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "goToThePrivacyPolicyPageFromAboutScreen"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.AboutFragmentAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(15092)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "owner",
+            "value": "Николаев Игорь Вячеславович"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

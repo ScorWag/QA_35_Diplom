@@ -1,0 +1,61 @@
+{
+    "name": "notAllowSaveEditClaimWithEmptyDescriptionField",
+    "start": 1687970403046,
+    "stop": 1687970456769,
+    "stage": "finished",
+    "description": "Запрет сохранения изменений в заявке с пустым полем \"Описание\"",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "e98612f0-2da2-4098-93a8-9258dbafe8a0",
+    "historyId": "401dfc5cc70db7402c81cd664c55a704",
+    "fullName": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest.notAllowSaveEditClaimWithEmptyDescriptionField",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "notAllowSaveEditClaimWithEmptyDescriptionField"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(15260)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "owner",
+            "value": "Николаев Игорь Вячеславович"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

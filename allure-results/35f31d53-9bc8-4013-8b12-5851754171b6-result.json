@@ -1,0 +1,61 @@
+{
+    "name": "editNewsWithChangeAllFields",
+    "start": 1687971548383,
+    "stop": 1687971616712,
+    "stage": "finished",
+    "description": "Редактирование существующей новости с изменением всех полей",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "35f31d53-9bc8-4013-8b12-5851754171b6",
+    "historyId": "8113a345cd1cdd0c02cc68560096c19f",
+    "fullName": "ru.iteco.fmhandroid.ui.CreateEditNewsAndroidTest.editNewsWithChangeAllFields",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditNewsAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "editNewsWithChangeAllFields"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditNewsAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(15264)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "owner",
+            "value": "Николаев Игорь Вячеславович"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

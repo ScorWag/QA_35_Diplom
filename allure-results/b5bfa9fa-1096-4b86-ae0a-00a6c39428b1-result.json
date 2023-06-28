@@ -1,0 +1,61 @@
+{
+    "name": "notAllowCreateNewsWithEmptyCategoryFieldOnly",
+    "start": 1687971773371,
+    "stop": 1687971791126,
+    "stage": "finished",
+    "description": "Запрет создания новости с пустым полем \"Категория\"",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "b5bfa9fa-1096-4b86-ae0a-00a6c39428b1",
+    "historyId": "3574b56a85e53d55e042d65663e23ebe",
+    "fullName": "ru.iteco.fmhandroid.ui.CreateEditNewsAndroidTest.notAllowCreateNewsWithEmptyCategoryFieldOnly",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditNewsAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "notAllowCreateNewsWithEmptyCategoryFieldOnly"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditNewsAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(15264)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "owner",
+            "value": "Николаев Игорь Вячеславович"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

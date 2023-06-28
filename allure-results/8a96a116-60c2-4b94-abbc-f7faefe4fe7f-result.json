@@ -1,0 +1,61 @@
+{
+    "name": "validationClaimTitleInputWithOneSymbol",
+    "start": 1687965254158,
+    "stop": 1687965332279,
+    "stage": "finished",
+    "description": "Валидация поля \"Тема\" в форме \"Создание заявки\" со значением из одного символа",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "8a96a116-60c2-4b94-abbc-f7faefe4fe7f",
+    "historyId": "e1123b3476f70e13079e3cbdfb871e0f",
+    "fullName": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest.validationClaimTitleInputWithOneSymbol",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "validationClaimTitleInputWithOneSymbol"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(15119)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "owner",
+            "value": "Николаев Игорь Вячеславович"
+        },
+        {
+            "name": "severity",
+            "value": "normal"
+        }
+    ]
+}

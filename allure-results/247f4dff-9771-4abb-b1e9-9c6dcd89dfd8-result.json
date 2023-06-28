@@ -1,0 +1,61 @@
+{
+    "name": "limitLengthClaimTitleInputWithFiftyFiveSymbols",
+    "start": 1687977886910,
+    "stop": 1687977913994,
+    "stage": "finished",
+    "description": "Ограничение длины в поле \"Тема\" формы \"Создание заявки\" со значением из 55 символов",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "247f4dff-9771-4abb-b1e9-9c6dcd89dfd8",
+    "historyId": "6c1227a58582c0d4373f7248ad41cbd6",
+    "fullName": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest.limitLengthClaimTitleInputWithFiftyFiveSymbols",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "limitLengthClaimTitleInputWithFiftyFiveSymbols"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(15396)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "owner",
+            "value": "Николаев Игорь Вячеславович"
+        },
+        {
+            "name": "severity",
+            "value": "normal"
+        }
+    ]
+}

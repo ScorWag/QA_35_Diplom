@@ -1,0 +1,61 @@
+{
+    "name": "goToTheMainScreenFromNewsScreen",
+    "start": 1687972698361,
+    "stop": 1687972722643,
+    "stage": "finished",
+    "description": "Навигация по меню - переход на главный экран по \"Главная\" из раздела \"Новости\"",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "9a8cb1a1-d6f8-4024-a0cd-08938a6a69a4",
+    "historyId": "70d5db554e92157d93dc449cd2a5639d",
+    "fullName": "ru.iteco.fmhandroid.ui.NewsListFragmentAndroidTest.goToTheMainScreenFromNewsScreen",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.NewsListFragmentAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "goToTheMainScreenFromNewsScreen"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.NewsListFragmentAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(15274)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "owner",
+            "value": "Николаев Игорь Вячеславович"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}

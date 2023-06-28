@@ -1,0 +1,61 @@
+{
+    "name": "cancelEditClaim",
+    "start": 1687969271281,
+    "stop": 1687969327727,
+    "stage": "finished",
+    "description": "Отмена сохранения внесенных изменений в существующую заявку по \"Отмена\"",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "1b4156a9-1d2f-490f-aac5-0a618bfd1283",
+    "historyId": "3aae85aabc06aa0ea9ba7934b5323f69",
+    "fullName": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest.cancelEditClaim",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "cancelEditClaim"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.CreateEditClaimAndroidTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(15245)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "owner",
+            "value": "Николаев Игорь Вячеславович"
+        },
+        {
+            "name": "severity",
+            "value": "critical"
+        }
+    ]
+}
